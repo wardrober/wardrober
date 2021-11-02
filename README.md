@@ -12,6 +12,6 @@ It's become a passion, and while I still work on various development and UI/UX p
 
 Skills: HTML / CSS / JS / PHP and flavors of each
 
-Working on: Employment acquisition.
+Working on: Open to work. Hire or contract.
 
 Learning: React.js specifically with intentions to continue in PERN stack.
