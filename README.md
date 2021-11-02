@@ -12,6 +12,6 @@ It's become a passion, and while I still work on various development and UI/UX p
 
 Skills: HTML / CSS / JS / PHP and flavors of each
 
-Working on: Employment acquisition :) Also, improving Node & Express skills.
+Working on: Employment acquisition.
 
-Learning: PERN stack
+Learning: React.js specifically with intentions to continue in PERN stack.
